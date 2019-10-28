@@ -1,5 +1,5 @@
 # DDG: Domestication Discussion Group
-Meeting time is 1 - 2 PM on Thursdays. We will be meeting on the UCI campus (Steinhaus Hall 267) but participants may join from remote locations.
+Meeting time is 1 - 2 PM (Pacific Time) on Thursdays. We will be meeting on the UCI campus (Steinhaus Hall 267) but participants may join from remote locations.
 
 ### What is this discussion group?
 - Informal discussion centered on the domestication of crop species
