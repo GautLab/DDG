@@ -23,7 +23,7 @@ Moyers, B. T., Morrell, P. L., & McKay, J. K. (2018). Genetic costs of domestica
 Arunkumar, R., Ness, R. W., Wright, S. I., & Barrett, S. C. H. (2015). The evolution of selfing is accompanied by reduced efficacy of selection and purging of deleterious mutations. Genetics, 199(3), 817–829. https://doi.org/10.1534/genetics.114.172809
 
 ### November 21, 2019 - Lead by Chaochih Liu
-TBD
+Balick, D. J., Do, R., Cassa, C. A., Reich, D., & Sunyaev, S. R. (2015). Dominance of deleterious alleles controls the response to a population bottleneck. PLOS Genetics, 11(8), e1005436. https://doi.org/10.1371/journal.pgen.1005436
 
 ### November 28, 2019 - Thanksgiving - No meeting!
 
