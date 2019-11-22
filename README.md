@@ -16,10 +16,14 @@ We will discuss a different article relating to domestication each week this fal
 ### November 28, 2019 - Thanksgiving - No meeting!
 
 ### December 5, 2019 - Lead by Skylar Wyant
-Julca1, I., Marcet-Houben, M., Cruz, F., Gómez-Garrido, J., Gaut, B. S., Díez, C. M., Gut, I. G., Alioto, T. S., Vargas, P., & Gabaldón, T. (2019). Genome sequencing of wild and cultivated mediterranean olive trees (*Olea europaea*) identifies recurrent hybridization during domestication. In review. Emailed to DDG members.
+Julca, I., Marcet-Houben, M., Cruz, F., Gómez-Garrido, J., Gaut, B. S., Díez, C. M., Gut, I. G., Alioto, T. S., Vargas, P., & Gabaldón, T. (2019). Genome sequencing of wild and cultivated mediterranean olive trees (*Olea europaea*) identifies recurrent hybridization during domestication. In review. Emailed to DDG members.
 
 ### December 12, 2019
 Simons, Y. B., Turchin, M. C., Pritchard, J. K., & Sella, G. (2014). The deleterious mutation load is insensitive to recent population history. Nature Genetics, 46(3), 220–224. https://doi.org/10.1038/ng.2896
+
+### December 19, 2019 - No meeting!
+
+### December 26, 2019 - No meeting!
 
 ## Past Schedule
 
