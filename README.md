@@ -24,21 +24,13 @@ Lye, Z. N., & Purugganan, M. D. (2019). Copy Number Variation in Domestication. 
 
 Wright, S. I., Bi, I. V., Schroeder, S. G., Yamasaki, M., Doebley, J. F., McMullen, M. D., & Gaut, B. S. (2005). The effects of artificial selection on the maize genome. Science, 308(5726), 1310–1314. https://doi.org/10.1126/science.1107891
 
----
-
 ## Past Schedule
-
-### November 28, 2019 - Thanksgiving - No meeting!
 
 ### December 5, 2019 - Lead by Skylar Wyant
 Julca, I., Marcet-Houben, M., Cruz, F., Gómez-Garrido, J., Gaut, B. S., Díez, C. M., Gut, I. G., Alioto, T. S., Vargas, P., & Gabaldón, T. (2019). Genome sequencing of wild and cultivated mediterranean olive trees (*Olea europaea*) identifies recurrent hybridization during domestication. In review. Emailed to DDG members.
 
 ### December 12, 2019
-Simons, Y. B., Turchin, M. C., Pritchard, J. K., & Sella, G. (2014). The deleterious mutation load is insensitive to recent population history. Nature Genetics, 46(3), 220–224. https://doi.org/10.1038/ng.2896
-
-### December 19, 2019 - No meeting!  
-
-### December 26, 2019 - No meeting!  
+Simons, Y. B., Turchin, M. C., Pritchard, J. K., & Sella, G. (2014). The deleterious mutation load is insensitive to recent population history. Nature Genetics, 46(3), 220–224. https://doi.org/10.1038/ng.2896 
 
 ### November 21, 2019 - Lead by Chaochih Liu
 Balick, D. J., Do, R., Cassa, C. A., Reich, D., & Sunyaev, S. R. (2015). Dominance of deleterious alleles controls the response to a population bottleneck. PLOS Genetics, 11(8), e1005436. https://doi.org/10.1371/journal.pgen.1005436
