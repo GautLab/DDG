@@ -24,6 +24,8 @@ Lye, Z. N., & Purugganan, M. D. (2019). Copy Number Variation in Domestication. 
 
 Wright, S. I., Bi, I. V., Schroeder, S. G., Yamasaki, M., Doebley, J. F., McMullen, M. D., & Gaut, B. S. (2005). The effects of artificial selection on the maize genome. Science, 308(5726), 1310–1314. https://doi.org/10.1126/science.1107891
 
+Kou, Y., Liao, Y., Toivainen, T., Lv, Y., Tian, X., Emerson, J. J., Gaut, B. S., & Zhou, Y. (2019). Evolutionary genomics of structural variation in Asian rice (Oryza sativa) and its wild progenitor (O. rufipogon). BioRxiv, 2019.12.19.883231. https://doi.org/10.1101/2019.12.19.883231
+
 ## Past Schedule
 
 ### December 5, 2019 - Lead by Skylar Wyant
