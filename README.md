@@ -10,23 +10,22 @@ Meeting time is **1 - 2 PM (Pacific Time) on Thursdays**. We will be meeting on 
 
 ## Winter 2020 Schedule
 
-## January 16, 2020 - Lead by Galen Martin
-Marsden, C. D., Vecchyo, D. O.-D., O’Brien, D. P., Taylor, J. F., Ramirez, O., Vilà, C., Marques-Bonet, T., Schnabel, R. D., Wayne, R. K., & Lohmueller, K. E. (2016). Bottlenecks and selective sweeps during domestication have increased deleterious genetic variation in dogs. Proceedings of the National Academy of Sciences, 113(1), 152–157. https://doi.org/10.1073/pnas.1512501113
-
-## Potential papers for future discussions:
-Razifard, H., Ramos, A., Della Valle, A. L., Bodary, C., Goetz, E., Manser, E. J., Li, X., Zhang, L., Visa, S., Tieman, D., van der Knaap, E., & Caicedo, A. L. (n.d.). Genomic Evidence for Complex Domestication History of the Cultivated Tomato in Latin America. Molecular Biology and Evolution. https://doi.org/10.1093/molbev/msz297
-
-Chen, L.-Y., VanBuren, R., Paris, M., Zhou, H., Zhang, X., Wai, C. M., Yan, H., Chen, S., Alonge, M., Ramakrishnan, S., Liao, Z., Liu, J., Lin, J., Yue, J., Fatima, M., Lin, Z., Zhang, J., Huang, L., Wang, H., … Ming, R. (2019). The bracteatus pineapple genome and domestication of clonally propagated crops. Nature Genetics, 51(10), 1549–1558. https://doi.org/10.1038/s41588-019-0506-8
-
-Purugganan, M. D. (2019). Evolutionary Insights into the Nature of Plant Domestication. Current Biology, 29(14), R705–R714. https://doi.org/10.1016/j.cub.2019.05.053
-
-Lye, Z. N., & Purugganan, M. D. (2019). Copy Number Variation in Domestication. Trends in Plant Science, 24(4), 352–365. https://doi.org/10.1016/j.tplants.2019.01.003
-
-Wright, S. I., Bi, I. V., Schroeder, S. G., Yamasaki, M., Doebley, J. F., McMullen, M. D., & Gaut, B. S. (2005). The effects of artificial selection on the maize genome. Science, 308(5726), 1310–1314. https://doi.org/10.1126/science.1107891
-
+### January 30, 2020 - Lead by Skylar Wyant
 Kou, Y., Liao, Y., Toivainen, T., Lv, Y., Tian, X., Emerson, J. J., Gaut, B. S., & Zhou, Y. (2019). Evolutionary genomics of structural variation in Asian rice (Oryza sativa) and its wild progenitor (O. rufipogon). BioRxiv, 2019.12.19.883231. https://doi.org/10.1101/2019.12.19.883231
 
+### February 6th, 2020 - Lead by Jonas Aguirre
+Kelleher, J., Wong, Y., Wohns, A. W., Fadil, C., Albers, P. K., & McVean, G. (2019). Inferring whole-genome histories in large population datasets. Nature Genetics, 51(9), 1330–1338. https://doi.org/10.1038/s41588-019-0483-y
+
+### February 13th, 2020 - Lead by Galen Martin
+Purugganan, M. D. (2019). Evolutionary Insights into the Nature of Plant Domestication. Current Biology, 29(14), R705–R714. https://doi.org/10.1016/j.cub.2019.05.053
+
+### February 20th, 2020 - Lead by Skylar Wyant
+Wright, S. I., Bi, I. V., Schroeder, S. G., Yamasaki, M., Doebley, J. F., McMullen, M. D., & Gaut, B. S. (2005). The effects of artificial selection on the maize genome. Science, 308(5726), 1310–1314. https://doi.org/10.1126/science.1107891
+
 ## Past Schedule
+
+### January 16, 2020 - Lead by Galen Martin
+Marsden, C. D., Vecchyo, D. O.-D., O’Brien, D. P., Taylor, J. F., Ramirez, O., Vilà, C., Marques-Bonet, T., Schnabel, R. D., Wayne, R. K., & Lohmueller, K. E. (2016). Bottlenecks and selective sweeps during domestication have increased deleterious genetic variation in dogs. Proceedings of the National Academy of Sciences, 113(1), 152–157. https://doi.org/10.1073/pnas.1512501113
 
 ### December 5, 2019 - Lead by Skylar Wyant
 Julca, I., Marcet-Houben, M., Cruz, F., Gómez-Garrido, J., Gaut, B. S., Díez, C. M., Gut, I. G., Alioto, T. S., Vargas, P., & Gabaldón, T. (2019). Genome sequencing of wild and cultivated mediterranean olive trees (*Olea europaea*) identifies recurrent hybridization during domestication. In review. Emailed to DDG members.
