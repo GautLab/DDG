@@ -1,17 +1,14 @@
 # DDG: Domestication Discussion Group
-Meeting time is **1 - 2 PM (Pacific Time) on Thursdays**. We will be meeting on the UCI campus (**Steinhaus Hall 329**) but participants may join via Zoom from remote locations.
-
-### What is this discussion group?
+What is this discussion group?
 - Informal discussion centered on the domestication of crop species
 - Focused on reading relevant books, classic literature, understanding modern tools and their applications, and interpretating results
 - We will discuss a different article relating to domestication each week this fall. Please see below for a more detailed schedule.
 
+Currently, DDG has merged with the [population genetics discussion group](https://github.com/MorrellLAB/PopGenTheory). There are no DDG meetings this quarter.
+
 ---
 
-## Winter 2020 Schedule
-
-### February 6th, 2020
-Wright, S. I., Bi, I. V., Schroeder, S. G., Yamasaki, M., Doebley, J. F., McMullen, M. D., & Gaut, B. S. (2005). The effects of artificial selection on the maize genome. Science, 308(5726), 1310–1314. https://doi.org/10.1126/science.1107891
+## Past Schedule
 
 ### February 13th, 2020
 Purugganan, M. D. (2019). Evolutionary Insights into the Nature of Plant Domestication. Current Biology, 29(14), R705–R714. https://doi.org/10.1016/j.cub.2019.05.053
@@ -19,7 +16,8 @@ Purugganan, M. D. (2019). Evolutionary Insights into the Nature of Plant Domesti
 ### February 20th, 2020 - Lead by Jonas Aguirre
 Kelleher, J., Wong, Y., Wohns, A. W., Fadil, C., Albers, P. K., & McVean, G. (2019). Inferring whole-genome histories in large population datasets. Nature Genetics, 51(9), 1330–1338. https://doi.org/10.1038/s41588-019-0483-y
 
-## Past Schedule
+### February 6th, 2020
+Wright, S. I., Bi, I. V., Schroeder, S. G., Yamasaki, M., Doebley, J. F., McMullen, M. D., & Gaut, B. S. (2005). The effects of artificial selection on the maize genome. Science, 308(5726), 1310–1314. https://doi.org/10.1126/science.1107891
 
 ### January 30, 2020 - Lead by Skylar Wyant
 Kou, Y., Liao, Y., Toivainen, T., Lv, Y., Tian, X., Emerson, J. J., Gaut, B. S., & Zhou, Y. (2019). Evolutionary genomics of structural variation in Asian rice (Oryza sativa) and its wild progenitor (O. rufipogon). BioRxiv, 2019.12.19.883231. https://doi.org/10.1101/2019.12.19.883231
